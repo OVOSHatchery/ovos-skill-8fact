@@ -1,4 +1,4 @@
-# <img src='./logo.jpg' width='50' height='50' style='vertical-align:bottom'/>  8 Fact
+# <img src='./icon.png' width='50' height='50' style='vertical-align:bottom'/> 8 Fact
 
 Random Facts
 

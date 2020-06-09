@@ -3,7 +3,7 @@ Terminal=false
 Type=Application
 Name=8Fact
 Exec=mycroft-gui-app --hideTextInput --skill=skill-8fact.jarbasskills.home
-Icon=xxx.png
+Icon=icon.png
 Categories=VoiceApp
 StartupNotify=false
 X-DBUS-StartupType=None
