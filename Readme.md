@@ -6,8 +6,8 @@ Random Facts
 
 random facts scrapped from https://www.instagram.com/8fact/
 
-![](./logo.jpg)
-
+![](./screenie1.png)
+![](./screenie.png)
 
 ## Examples
 * "random fact"
